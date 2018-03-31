@@ -1,0 +1,25 @@
+[app/ui]
+version = 6.6.0
+modtime = 1522463826.837070000
+
+[app/launcher]
+version = 6.6.0
+modtime = 1522463826.842105000
+
+[transforms/set_sourcetype_for_filterlog_ip4_udp]
+version = 6.6.0
+modtime = 1520199696.492523000
+
+[props/pfsense_syslog]
+owner = admin
+version = 6.6.0
+modtime = 1520200028.999599000
+
+[indexes/pfsense]
+owner = admin
+version = 6.6.0
+modtime = 1520478543.110484000
+
+[app/package/check_for_updates]
+version = 6.6.0
+modtime = 1522463826.843911000
