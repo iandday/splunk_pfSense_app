@@ -23,3 +23,8 @@ modtime = 1520478543.110484000
 [app/package/check_for_updates]
 version = 6.6.0
 modtime = 1522463826.843911000
+
+[inputs/monitor%3A%2F%2F%2Fopt%2Finput]
+owner = admin
+version = 7.1.1
+modtime = 1527843436.780619000
